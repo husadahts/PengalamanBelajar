@@ -1,9 +1,9 @@
 # PengalamanBelajar
 Repository ini berisi pengalaman belajar selama di Dicoding
 
-14 Juni 2021
-Belajar kelas Memulai Pemrograman dengan Java. (Progres 21%)
+19 Februari 2023
+Belajar kelas Memulai Dasar Pemograman Software. (Progres 88%)
 
-* Belajar tentang apa itu Java dan alasan menggunakannya.
+* Belajar tentang apa itu URS dan SKPL.
 
-* Belajar tools yang dapat digunakan untuk menjalankan bahasa pemrograman Java.
+* Belajar studi kasus tentang halaman login pada aplikasi.
